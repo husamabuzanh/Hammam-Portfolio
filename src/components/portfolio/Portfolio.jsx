@@ -1,7 +1,7 @@
 import Projects from "./Projects";
-import card1 from "../../assets/images/logos/PPU.jpg";
-import card2 from "../../assets/images/logos/Aljebrini.jpg";
-import card3 from "../../assets/images/logos/Trico.png"; // rename logo folder
+import card1 from "../../assets/images/Logos/PPU.jpg";
+import card2 from "../../assets/images/Logos/Aljebrini.jpg";
+import card3 from "../../assets/images/Logos/Trico.png"; // rename logo folder
 
 const projectData = [
   {
